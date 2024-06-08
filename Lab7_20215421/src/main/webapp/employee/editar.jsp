@@ -50,7 +50,7 @@
         </div>
         <div class="mb-3">
             <label>Salario:</label>
-            <input type="text" class="form-control" name="phone_number" value="<%=empleado.getSalary()%>">
+            <input type="text" class="form-control" name="salary" value="<%=empleado.getSalary()%>">
         </div>
 
 
